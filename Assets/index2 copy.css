@@ -62,19 +62,11 @@ img {
   margin-top: 100px;
   margin-left: 300px;
   margin-right: 300px;
-}
-
-.intro {
-  padding: 50px;
-  background-color: green;
   transition: transform 0.2s; /* Animation */
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
 }
 
 .intro:hover {
-  transform: scale(1.5); /* (150% zoom)*/
+  transform: scale(1.2); /* (150% zoom)*/
 }
 
 .q1 {
